@@ -1,0 +1,47 @@
+
+
+.insta-background{
+        text-align: center;
+        color: #fff;
+        font-size: 8rem;
+        vertical-align: middle;
+        background: radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285AEB 90%);
+        box-shadow: 0 3px 10px rgb(0 0 0 / 25%);
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        justify-content: center;
+    }
+    .fb-background{
+        text-align: center;
+        color: #fff;
+        font-size: 8rem;
+        vertical-align: middle;
+        background: linear-gradient(0deg,#3b5998,#4267B2);
+        box-shadow: 0 3px 10px rgb(0 0 0 / 25%);
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        justify-content: center;
+    }
+    .yt-background{
+        text-align: center;
+        color: #fff;
+        font-size: 8rem;
+        vertical-align: middle;
+        background: #d03730;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 25%);
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        justify-content: center;
+    }
+
+
+.sports {
+    background-image: url("../src/assets/sports.png");
+}
+
